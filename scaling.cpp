@@ -1,4 +1,5 @@
-//2D Transformation (Scaling)
+//2D Transformation (Scaling) -with C++
+
 #include <stdio.h>
 #include <conio.h>
 #include <graphics.h>
